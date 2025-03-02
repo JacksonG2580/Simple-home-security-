@@ -5,4 +5,4 @@ Arduino Board | Uno or Mega | Main function is to detected motion when near sens
 
 Potential issues - Pir motion sensor consistently sensing motion 
 
-Video: https://www.youtube.com/watch?v=hls9nB3zJfM 
+Video: https://youtube.com/shorts/W2qNl0Ytu1Y
